@@ -1,2 +1,7 @@
-# demo-dra-soldano-maria-mercedes
-Demo web para Dra Soldano Maria Mercedes — diseñada por eterlab.
+# Dra Soldano Maria Mercedes
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
